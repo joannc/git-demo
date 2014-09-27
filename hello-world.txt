@@ -3,3 +3,5 @@ Some hello world text
 adding, committing, revert
 
 third change
+
+VERSION 2 and 3 Merge
